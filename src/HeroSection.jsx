@@ -20,12 +20,15 @@ const HeroSection = () => {
             <div>
               <button className='bg-violet-500 text-white px-12 rounded-2xl py-4'>Explore</button>
 
-              
+
+
+
+
             </div>
           </div>
 
           {/* Hero - img */}
-          <div className='flex ms-24 py-10'>
+          <div className='flex ms-24 py-10 rounded-2xl '>
             <img src={hero} alt="Hero Illustration" className='max-w-sm' />
           </div>
         </div>

@@ -2,7 +2,9 @@ import React from 'react'
 
 const AwardsSection = () => {
   return (
-    <div className='py-32'>AwardsSection</div>
+    <section>
+      <h1>Our Recent Awards</h1>
+    </section>
   )
 }
 
