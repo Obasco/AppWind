@@ -26,7 +26,7 @@ const HeroSection = () => {
 
           {/* Hero Image */}
           <div className='flex justify-center md:justify-end py-3 md:py-10'>
-            <img src={hero} alt="Hero Illustration" className='ps-[8rem]'/>
+            <img src={hero} alt="Hero Illustration" className='lg:ps-[8rem]'/>
           </div>
         </div>
 
