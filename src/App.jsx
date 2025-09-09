@@ -13,7 +13,7 @@ function App() {
 
 
   return (
-    <>
+    <div className="overflow-hidden">
      <Navbar />
 
      {/* Hero / Landing */}
@@ -47,7 +47,7 @@ function App() {
       <Footer />
     
    
-    </>
+    </div>
   )
 }
 
